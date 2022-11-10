@@ -13,7 +13,7 @@ const EddoDeuz =
 {
   programmingInitiation: "October 2022"
   pronouns: "he" | "him",
-  birth: [2-12-1997],
+  birth: [2-12],
   FavoriteGamingFranchise: ["Assasins Creed", "Far Cry" , "dying light" , "Resident Evil"]
 
 }
