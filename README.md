@@ -24,5 +24,13 @@ const EddoDeuz =
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like games, novels, manga, anime, electronic music and I love martial arts.</em>
 
 ---
+  
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddodeuz" alt="eddodeuz" /></a> </p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddodeuz&show_icons=true&locale=en&layout=compact" alt="eddodeuz" /></p>
+
+
+
 
   
