@@ -10,7 +10,6 @@
 ```javascript
 const EddoDeuz = 
 {
-  programmingInitiation: "October 2022"
   pronouns: "he" | "him",
   birth: [2-12],
   
